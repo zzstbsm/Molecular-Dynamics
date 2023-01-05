@@ -1,0 +1,11 @@
+- File management
+--- Add create, load, save, append error codes
+--- Add file naming system and indices for runs (to implement with SQLite)
+--- Create read index file function
+
+- Measures
+--- Make measure update multitread
+--- Save measures
+
+- Physics
+--- Add cell structure
