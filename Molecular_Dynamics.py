@@ -9,6 +9,7 @@ import lib.logging as log
 from lib.interface import Interface
 
 if __name__ == "__main__":
+	print("Git works")
 	log.log_SetDebug()
 	log.start()
 	
